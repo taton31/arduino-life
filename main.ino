@@ -52,7 +52,7 @@ const char* htmlPage = R"(
    
     <!-- Ползунок -->
     <label for="speed">Скорость:</label>
-    <input type="range" id="speed" min="1" max="15" value="5" />
+    <input type="range" id="speed" min="1" max="10" value="5" />
     <span id="speedValue">5</span>
 
     <label for="bright">Яркость:</label>
